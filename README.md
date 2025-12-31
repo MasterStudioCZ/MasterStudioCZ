@@ -1,7 +1,4 @@
-Hi, I’m @MasterStudioCZ.
-I live in Czech Republic.
-I am interested in Python and game dev.
-You can contact me on czmasterstudio@gmail.com
+I'm Donytr (formerly MasterStudioCZ) and I am a student who spends his free time by playing and modding video games.
 
 <!---
 MasterStudioCZ/MasterStudioCZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
